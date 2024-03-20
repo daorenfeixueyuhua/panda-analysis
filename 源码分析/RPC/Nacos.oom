@@ -1640,8 +1640,8 @@ Shadow=0</a:DisplayPreferences>
 <o:NoteSymbol Id="o17">
 <a:Text>createGrpcExcutor()方法创建线程”nacos-grpc-client-executor-“，</a:Text>
 <a:CreationDate>1683251679</a:CreationDate>
-<a:ModificationDate>1689039634</a:ModificationDate>
-<a:Rect>((34473,-72080), (39272,-67737))</a:Rect>
+<a:ModificationDate>1692056236</a:ModificationDate>
+<a:Rect>((34428,-72036), (39227,-67693))</a:Rect>
 <a:TextStyle>4130</a:TextStyle>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
 <a:LineColor>16711680</a:LineColor>
@@ -2156,9 +2156,9 @@ SOURCE 0 新宋体,8,N</a:FontList>
 </o:NoteLinkSymbol>
 <o:NoteLinkSymbol Id="o89">
 <a:CreationDate>1683251684</a:CreationDate>
-<a:ModificationDate>1683251684</a:ModificationDate>
-<a:Rect>((36608,-70091), (51590,-64140))</a:Rect>
-<a:ListOfPoints>((51190,-64540),(37008,-69691))</a:ListOfPoints>
+<a:ModificationDate>1692056236</a:ModificationDate>
+<a:Rect>((36563,-70047), (51590,-64140))</a:Rect>
+<a:ListOfPoints>((51190,-64540),(36963,-69647))</a:ListOfPoints>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>16711680</a:LineColor>
 <a:DashStyle>3</a:DashStyle>
